@@ -11,6 +11,7 @@ span{
 
 section{
     display:flex;
+    margin-bottom: 120px;
 }
 .side{
     width:50%;
@@ -31,4 +32,9 @@ section{
 .chobi{
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.big{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
 }
